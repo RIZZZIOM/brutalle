@@ -25,7 +25,7 @@
 Clone the repository and navigate to it:
 
 ```bash
-git clone <url>
+git clone https://github.com/RIZZZIOM/brutalle.git
 cd brutalle
 ```
 
